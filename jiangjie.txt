@@ -1,1 +1,2 @@
 先运行log 然后运行程序写入数据库
+git push origin master
